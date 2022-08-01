@@ -1,2 +1,3 @@
 # hooks-practice
-Created with CodeSandbox
+A clock made using hook in react
+
